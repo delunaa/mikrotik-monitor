@@ -1,2 +1,2 @@
 ﻿# mikrotik-monitor_APP
-wong kentol
+wallahi were finished
